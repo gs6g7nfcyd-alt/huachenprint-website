@@ -1,0 +1,15 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/assets/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/styles.css
+  Cache-Control: public, max-age=86400
+
+/site.js
+  Cache-Control: public, max-age=86400
+
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
