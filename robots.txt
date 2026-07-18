@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://huachenprint.com/sitemap.xml
+Sitemap: https://www.huachenprint.com/sitemap.xml
